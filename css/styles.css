@@ -1,0 +1,23 @@
+h1{
+
+color: red;
+text-align: center;
+
+}
+
+p{
+    font-family: verdana;
+    font-size: 20px;
+}
+
+th,td{
+border-bottom:  3px dashed #d0d0d0;
+}
+
+tr:nth-child(even) {background-color: #00ff00}
+
+#area_mensagem {
+
+border: 1px solid #00ff00;
+
+}
